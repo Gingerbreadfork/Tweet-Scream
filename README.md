@@ -13,7 +13,7 @@ Stream Tweets with Node.js and Log Keyword Matches to Console &amp; File
 
 ------
 
-Tweets will be logged to the console, but also saved to a file in the local directory called ```stream.txt```
-
-The Log file can be manually cleared between runs if desired, just empty it and overwrite the file.
+* Tweets will be logged to the console, but also saved to a file in the local directory called ```stream.txt```
+* The Log file can be manually cleared between runs if desired, just empty it and overwrite the file.
+* Uses Twitter Api v2 learn more here: https://developer.twitter.com/en/docs/twitter-api/early-access
 
